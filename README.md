@@ -1,71 +1,47 @@
-<h1 align="center">👋 Hola, soy Luciano Cortez</h1>
+<h1 align="center">👨‍💻 Luciano Cortez – Software Developer</h1>
 
 <p align="center">
-💻 Desarrollador de Software | 🌐 Full-Stack Developer | 📱 Mobile Developer
+💻 Desarrollador de Software | 🌐 Full-Stack | 📱 Mobile Developer | ⚡ Tech Enthusiast
 </p>
 
 <p align="left">
-Soy Luciano Cortez, desarrollador de software apasionado por crear soluciones eficientes y escalables.  
-Tengo experiencia en desarrollo **web (front-end y back-end)**, **móvil (Android/iOS)** y **de escritorio**,  
-con un fuerte enfoque en tecnologías modernas, rendimiento y experiencias de usuario pulidas.  
-Siempre estoy aprendiendo cosas nuevas y buscando desafíos que me permitan crecer como profesional.
+Tengo experiencia en <strong>aplicaciones web, móviles y de escritorio</strong>.  
+Me apasiona crear soluciones <strong>elegantes y escalables</strong> que brinden experiencias fluidas y de alto rendimiento.  
+Trabajo con <strong>tecnologías modernas en front-end y back-end</strong>, siempre buscando aprender algo nuevo y asumir desafíos que me hagan crecer como profesional.
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h2>🚀 Languages and Tools</h2>
 
----
-
-<h3 align="left">🛠️ Lenguajes y Herramientas</h3>
-
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"></a>
+<p align="center">
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js" /></a>
+<a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42" alt="NGINX" /></a>
+<a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="42" height="42" alt="Android" /></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="42" height="42" alt="Kotlin" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42" height="42" alt="Google Cloud" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git" /></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42" height="42" alt="Arduino" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" /></a>
 </p>
 
----
+<h2>📊 GitHub Stats</h2>
 
-<h3>📊 Mis Estadísticas de GitHub</h3>
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucianodavidcor&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top Langs">
-</p>
-<br><br><br><br><br><br><br>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lucianodavidcor&show_icons=true&theme=dark&locale=es" alt="GitHub Stats">
-</p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucianodavidcor&theme=dark" alt="GitHub Streak">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lucianodavidcor&show_icons=true&theme=dark&hide_border=true" alt="Lucianodavidcor GitHub Stats" />
 </p>
 
----
-
-<h3 align="left">🌐 Conecta conmigo:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/luciano-cortez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>
-<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"></a>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucianodavidcor&theme=dark&hide_border=true" alt="Lucianodavidcor Streak Stats" />
 </p>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Lucianodavidcor&label=Profile%20views&color=0e75b6&style=flat" alt="Lucianodavidcor">
-</p>
-
----
-<p align="center">Última actualización: Septiembre 2025</p>
