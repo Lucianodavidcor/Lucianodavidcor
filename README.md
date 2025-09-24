@@ -26,8 +26,8 @@
 
 <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoCortez&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCortez&layout=compact&langs_count=8&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucianodavidcor&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianodavidcor&layout=compact&langs_count=8&theme=radical">
 </p>
 
 <hr>
