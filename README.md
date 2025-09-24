@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">&nbsp;
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518">&nbsp;
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java">&nbsp;
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C">&nbsp;
 <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase">&nbsp;
