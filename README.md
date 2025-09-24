@@ -42,5 +42,6 @@ Trabajo con <strong>tecnologías modernas en front-end y back-end</strong>, siem
   <img src="https://github-readme-stats.vercel.app/api?username=Lucianodavidcor&show_icons=true&theme=dark&hide_border=true" alt="Lucianodavidcor GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucianodavidcor&theme=dark&hide_border=true" alt="Lucianodavidcor Streak Stats" />
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucianodavidcor&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top Langs">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucianodavidcor&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top Langs">
+</p>
