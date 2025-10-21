@@ -34,5 +34,3 @@
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">&nbsp;
 <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin">
 </p>
-
----
